@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vinicius Medeiros, nice to meet you!
+- 📚 Universidade Federal do Rio Grande do Norte - IMD
+- 🌱 I’m currently learning Phyton and principles of computacional thought.
