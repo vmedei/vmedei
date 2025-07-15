@@ -27,7 +27,6 @@ Tenho experiência com desenvolvimento web, principalmente utilizando Typescript
 
 - Email: [vinicius.m3deiros@gmail.com]
 - Linkedin: [[Vinicius Medeiros](https://www.linkedin.com/in/vinicius-medeiros-555046191/)]
-- [Adicione LinkedIn, portfólio ou email se desejar]
 
 ---
 
